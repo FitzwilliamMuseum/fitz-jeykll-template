@@ -1,6 +1,6 @@
 # Template Jekyll - Fitzwilliam
 
-Holding webpages for a forthcoming exhibition.
+Holding webpages for a forthcoming exhibition or online gallery archives.
 
 ## To run locally
 
