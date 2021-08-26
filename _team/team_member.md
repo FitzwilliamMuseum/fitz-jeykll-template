@@ -5,7 +5,7 @@ image: ""
 institution: "The Fitzwilliam Museum"
 job-title: "Project curator"
 layout: default
-permalink: /about/team/
+permalink: /about/team/test-member
 ---
 My previous experience in archaeological project management was gained during my time working for the ERC ADaPt project in Cambridge, and as Post Excavation Officer at Birmingham Archaeology, University of Birmingham. I have also worked as an Archaeologist at the Laboratory of Geoarchaeology, Almaty, Kazakhstan.
 
