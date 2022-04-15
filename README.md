@@ -1,6 +1,8 @@
 # Template Jekyll - Fitzwilliam
 
-Holding webpages for a forthcoming exhibition or online gallery archives.
+[![DOI](https://zenodo.org/badge/381138642.svg)](https://zenodo.org/badge/latestdoi/381138642)
+
+This template can be used to generate scaffolded Jekyll instances for Fitzwilliam Museum projects. 
 
 ## To run locally
 
